@@ -1,0 +1,2 @@
+var letra = prompt("Ingrese su palabra que desea: ");
+console.log("La palabra tiene: "+letra.length+ "Letras");
